@@ -1,0 +1,299 @@
+[2019-03-06T11:14:04.652] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:14:10.669] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:10.670] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:15.669] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:15.670] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:20.668] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:20.668] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:25.670] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:25.670] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:30.671] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:30.676] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:35.671] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:35.672] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:40.672] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:40.673] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:45.670] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:45.670] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:50.671] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:50.672] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:14:55.671] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:14:55.672] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:00.672] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:00.674] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:05.673] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:05.674] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:10.670] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:10.671] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:15.672] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:15.673] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:20.670] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:20.671] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:25.672] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:25.673] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:30.673] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:30.674] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:35.673] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:35.675] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:40.674] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:40.676] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:45.674] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:45.675] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:50.674] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:50.675] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:15:55.714] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:15:55.715] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:00.706] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:00.707] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:05.707] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:05.709] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:10.711] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:10.713] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:15.709] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:15.709] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:20.709] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:20.711] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:25.709] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:25.710] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:30.709] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:30.710] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:35.708] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:35.711] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:40.711] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:40.712] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:45.709] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:45.710] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:50.710] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:50.712] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:16:55.711] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:16:55.712] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:00.710] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:00.712] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T12:10:02.301] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:10:47.595] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:11:13.082] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:11:18.055] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:11:22.551] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:11:52.264] [ERROR] default - client fd:1 timeout

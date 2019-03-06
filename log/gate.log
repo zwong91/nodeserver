@@ -1,0 +1,372 @@
+[2019-03-06T11:17:20.533] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:17:26.554] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:26.555] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:31.551] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:31.552] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:36.553] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:36.553] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:41.552] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:41.553] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:46.554] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:46.556] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:51.554] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:51.555] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:17:56.553] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:17:56.554] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:01.555] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:01.556] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:06.554] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:06.555] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:11.554] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:11.555] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:16.557] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:16.559] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:21.555] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:21.556] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:35.625] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:18:43.983] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:43.985] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:48.981] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:48.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:53.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:53.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:18:58.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:18:58.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:03.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:03.984] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:08.981] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:08.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:13.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:13.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:18.981] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:18.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:23.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:23.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:28.983] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:28.984] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:33.982] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:33.983] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:38.984] [INFO] default - server connection error,fd:NaN,ip:undefined
+[2019-03-06T11:19:38.985] [ERROR] default - { Error: connect ECONNREFUSED 127.0.0.1:9200
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 9200 }
+[2019-03-06T11:19:42.617] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:20:20.525] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:21:08.325] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:23:25.501] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:26:27.373] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:26:55.308] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:27:14.923] [INFO] default - client connected,fd:1,ip:127.0.0.1
+[2019-03-06T11:39:17.457] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:39:33.590] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:39:46.947] [INFO] default - client read data,fd: NaN, ip: undefined
+[2019-03-06T11:44:23.001] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:44:44.687] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:44:49.227] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:45:08.640] [INFO] default - client read data,fd: NaN, ip: undefined
+[2019-03-06T11:46:50.636] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:46:52.885] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:46:56.512] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:48:44.412] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:48:47.634] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:48:49.232] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:56:23.126] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:56:28.591] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:57:10.189] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:58:59.840] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:59:03.744] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:59:07.173] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:59:36.107] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:59:40.253] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T11:59:43.864] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T11:59:47.116] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:02:49.392] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:02:53.807] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:02:58.662] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:03:05.418] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:03:25.498] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:03:35.470] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:03:37.842] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:03:46.192] [ERROR] default - client fd:1 send unkown cmd:1201
+[2019-03-06T12:05:29.637] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:06:06.229] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:06:07.674] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:06:41.555] [DEBUG] default - { svrHost: '127.0.0.1',
+  svrPort: 9000,
+  redisHost: '127.0.0.1',
+  redisPort: 6379,
+  redisPassword: '',
+  centerSvrHost: '127.0.0.1',
+  centerSvrPort: 9200 }
+[2019-03-06T12:06:47.861] [INFO] default - client connected,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:06:50.674] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:07:45.216] [INFO] default - client read data,fd: 1, ip: 127.0.0.1
+[2019-03-06T12:07:47.488] [INFO] default - client read data,fd: 1, ip: 127.0.0.1

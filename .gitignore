@@ -1,0 +1,6 @@
+node_modules
+/.vs/gamex/v15
+/gamex.vcxproj.user
+/gamex.vcxproj.filters
+/gamex.vcxproj
+/gamex.sln
